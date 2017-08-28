@@ -59,7 +59,7 @@ function displayProducts(){
         // console.log("ID Array: " + idArray);
         // console.log("ID Array: " + invenArr);
         // console.log("ID Array: " + priceArr);
-         console.log("item description array: " + productDescArr)
+        // console.log("item description array: " + productDescArr)
         
         // //push the completed Arrays to a larger array for ease of passing parameters
         // localDBArr.push(idArray, invenArr, priceArr, productDescArr)
